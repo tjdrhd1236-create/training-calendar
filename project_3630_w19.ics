@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PROJECT 36:30//Training//KO
+METHOD:PUBLISH
+X-WR-CALNAME:PROJECT 36:30 훈련
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+SUMMARY:🏃 W19-목 | Z2 8km + 스트라이드 4×100m
+DTSTART;TZID=Asia/Seoul:20260507T060000
+DTEND;TZID=Asia/Seoul:20260507T070000
+DTSTAMP:20260507T073644Z
+UID:w19-thu-z2-strides@project3630.training
+SEQUENCE:0
+DESCRIPTION:[테이퍼 D-5: 신경근 활성화]\n\n▶ 세션\n- WU: 동
+ 적 스트레칭 5분\n- Main: Z2 8km @ 5:30~5:50/km\, HR ≤145\n- Stride
+ s: 4×100m @ 3:25/km (60s 워크)\n- CD: 정적 스트레칭\n\n▶ 근거
+ \n- 신경계 적응 1~2일 내 변화 (Marathon Handbook 2026)\n- 빈도 
+ 유지하며 거리만 단축 (Bosquet 메타분석)\n\n▶ 체크\n- 케
+ 이던스 178~180spm\n- HR 145 초과 시 페이스 다운
+LAST-MODIFIED:20260507T073644Z
+LOCATION:전주
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 W19-목 | Z2 8km + 스트라이드 4×100m
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 W19-목 | Z2 8km + 스트라이드 4×100m
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💤 W19-금 | 휴식 또는 Z1 5km
+DTSTART;TZID=Asia/Seoul:20260508T060000
+DTEND;TZID=Asia/Seoul:20260508T063000
+DTSTAMP:20260507T073644Z
+UID:w19-fri-rest@project3630.training
+SEQUENCE:0
+DESCRIPTION:[테이퍼 D-4: 부교감 회복]\n\n▶ 옵션 A (권장): 
+ 완전 휴식\n- 폼롤러 10분\, 산책 30분 이내\n\n▶ 옵션 B: Z1
+  5km\n- 6:00/km 이상\, HR ≤130\n\n▶ 결정 기준 (5/8 아침 수면
+ )\n- RMSSD ≥100ms & HR<40 ≥80분 → 옵션 B\n- 그 외 → 옵션 A
+LAST-MODIFIED:20260507T073644Z
+LOCATION:전주
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💤 W19-금 | 휴식 또는 Z1 5km
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💤 W19-금 | 휴식 또는 Z1 5km
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎯 W19-토 | 레이스 페이스 자극 3×1000m
+DTSTART;TZID=Asia/Seoul:20260509T060000
+DTEND;TZID=Asia/Seoul:20260509T070000
+DTSTAMP:20260507T073644Z
+UID:w19-sat-race-pace@project3630.training
+SEQUENCE:0
+DESCRIPTION:[테이퍼 D-3: 핵심 세션]\n\n▶ 세션 (~7km)\n- WU: 이
+ 지 2km + 드릴 + 2×100m 스트라이드\n- Main: 3×1000m @ 3:42~3:45 (
+ R 90s)\n  · 1세트 3:45 (감각)\n  · 2세트 3:43 (리듬)\n  · 3세
+ 트 3:42 (자신감)\n- CD: 이지 1km\n\n▶ 근거\n- 고강도-저볼
+ 륨 테이퍼 우월성 (중거리 러너 연구)\n- 마지막 고강도 
+ 자극\n\n▶ 체크\n- HR 175 초과 금지\n- 케이던스 180spm\n- 마
+ 지막 세트가 가장 편해야 함
+LAST-MODIFIED:20260507T073644Z
+LOCATION:전주 (트랙 권장)
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 W19-토 | 레이스 페이스 자극 3×1000m
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎯 W19-토 | 레이스 페이스 자극 3×1000m
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏃 W19-일 | Z2 6km + 스트라이드 4×100m
+DTSTART;TZID=Asia/Seoul:20260510T060000
+DTEND;TZID=Asia/Seoul:20260510T065000
+DTSTAMP:20260507T073644Z
+UID:w19-sun-z2-strides@project3630.training
+SEQUENCE:0
+DESCRIPTION:[테이퍼 D-2: 회복 + 신경근 유지]\n\n▶ 세션\n- WU
+ : 동적 스트레칭\n- Main: Z2 6km @ 5:40~5:50\, HR ≤145\n- Strides: 
+ 4×100m @ 3:25/km\n- CD: 정적 스트레칭 + 폼롤러\n\n▶ 근거\n- 
+ flat legs 방지\n- 근긴장도 적정 유지 (Magness)\n\n▶ 체크\n- 
+ 6km 초과 금지\n- 무거우면 5km로 단축
+LAST-MODIFIED:20260507T073644Z
+LOCATION:전주
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 W19-일 | Z2 6km + 스트라이드 4×100m
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 W19-일 | Z2 6km + 스트라이드 4×100m
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✨ W19-월 | 셰이크아웃 3km + 스트라이드 4×20s
+DTSTART;TZID=Asia/Seoul:20260511T070000
+DTEND;TZID=Asia/Seoul:20260511T072500
+DTSTAMP:20260507T073644Z
+UID:w19-mon-shakeout@project3630.training
+SEQUENCE:0
+DESCRIPTION:[테이퍼 D-1: 신경근 프라이밍]\n\n▶ 세션 (~25분)
+ \n- WU: 동적 스트레칭 5분\n- Main: 이지 3km @ 5:50~6:00\n- Stride
+ s: 4×20s @ 3:30/km (전속 80~85%)\n- CD: 정적 스트레칭\n\n▶ 종
+ 일 가이드\n- 점심: 탄수화물 충분히\n- 오후: 장시간 서
+ 있기 금지\n- 저녁: 18:00 이전\, 탄수화물 중심\n- 21:00 이
+ 전 취침\n- 카페인·알코올 금지\n- 베타알라닌 평소대로\
+ n\n▶ 체크\n- 절대 빠르게 달리지 않기\n- 3km 초과 금지
+LAST-MODIFIED:20260507T073644Z
+LOCATION:전주
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✨ W19-월 | 셰이크아웃 3km + 스트라이드 4×20s
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✨ W19-월 | 셰이크아웃 3km + 스트라이드 4×20s
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏁 5km TT | 목표 18:30~18:45 (VDOT 52~53)
+DTSTART;TZID=Asia/Seoul:20260512T063000
+DTEND;TZID=Asia/Seoul:20260512T080000
+DTSTAMP:20260507T073644Z
+UID:w19-tue-tt-5km@project3630.training
+SEQUENCE:0
+DESCRIPTION:[D-Day: 2차 5km TT]\n\n▶ 레이스 전 90분\n- T-90: 비
+ 트루트 주스 70ml\n- T-60: 바나나 1개 또는 토스트\n- T-45: 
+ 화장실\, 물 200ml\n- T-30: WU 시작\n  · 이지 12분 (HR 130~140)\n
+   · 동적 드릴 5분\n  · 3×100m 스트라이드 (점진 가속)\n- T
+ -5: 출발선\n\n▶ 페이싱 (네거티브 스플릿)\n- 1km: 3:45 (HR 
+ ≤172)\n- 2km: 3:42 (~175)\n- 3km: 3:42 (~177)\n- 4km: 3:40 (~178)\n- 5km
+ : 3:35 ALL-OUT\n- 합계: 18:24~18:44\n\n▶ 핵심\n- 1km 3:40 이하 절
+ 대 금지\n- 케이던스 180spm\n- 4km부터 1단 올리기\n\n▶ 레
+ 이스 후\n- CD: 이지 10분 + 워킹 5분\n- 단백질+탄수화물 30
+ 분 내\n- Polar H10 데이터 저장
+LAST-MODIFIED:20260507T073644Z
+LOCATION:전주
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 5km TT | 목표 18:30~18:45 (VDOT 52~53)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 5km TT | 목표 18:30~18:45 (VDOT 52~53)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
